@@ -1,7 +1,7 @@
 {
   "name": "jeremiaspereira.github.io",
   "version": "1.0.0",
-  "description": "Blog",
+  "description": "Materialoze jekyll",
   "main": "gulpfile.js",
   "scripts": {
     "test": "test"
