@@ -1,0 +1,26 @@
+{
+  "name": "jeremiaspereira.github.io",
+  "version": "1.0.0",
+  "description": "Blog",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "frontend",
+    "blog",
+    "css",
+    "gulp",
+    "jekyll",
+    "js"
+  ],
+  "author": "Jeremias Pereira",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^1.9.0",
+    "gulp": "^3.8.10",
+    "gulp-concat": "^2.6.0",
+    "gulp-plumber": "^0.6.6",
+    "gulp-sass": "^2.0.4"
+  }
+}
