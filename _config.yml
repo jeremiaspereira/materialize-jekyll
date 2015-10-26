@@ -3,7 +3,7 @@ title:  Materialize & Jekyll
 email: jeremiaspereira@gmail.com
 description: ># A basic treme with Jekyll and Materialize.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://materialize-jekyll.github.io" # the base hostname & protocol for your site
+url: "https://jeremiaspereira.github.io" # the base hostname & protocol for your site
 twitter_username: jeremiastpe
 github_username:  jeremiaspereira
 

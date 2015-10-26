@@ -1,7 +1,7 @@
 var gulp      = require('gulp'),
 	plumber     = require('gulp-plumber'),
 	browserSync = require('browser-sync'),
-	sass      = require('gulp-sass'),
+	sass        = require('gulp-sass'),
 	concat      = require('gulp-concat'),
 	cp          = require('child_process').spawn;
 
